@@ -1,0 +1,6 @@
+{
+  "name": "VeriFin Mobile - BAF Field & Verification Suite",
+  "description": "Mobile application demo for BAF featuring Sales fast document OCR capture & tamper detection, Surveyor geotag & mock GPS inspection, offline sync queue, and instant risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
